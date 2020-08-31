@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a190f0df-e658-46b0-8682-208f83d3a497" name="Default Changelist" comment="" />
+    <list default="true" id="a190f0df-e658-46b0-8682-208f83d3a497" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/vendors/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/vendors/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/admin/vendors/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/vendors/edit.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -117,6 +125,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1dPxp9v1P7uCjTczHzlq42MYOlF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -125,7 +134,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dwaee" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nic" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -191,6 +200,18 @@
       <workItem from="1595178796224" duration="822000" />
       <workItem from="1595230476174" duration="10538000" />
       <workItem from="1595354152658" duration="643000" />
+      <workItem from="1595524126248" duration="1392000" />
+      <workItem from="1595620349532" duration="1496000" />
+      <workItem from="1595657039115" duration="649000" />
+      <workItem from="1596560808911" duration="1244000" />
+      <workItem from="1596562862901" duration="5260000" />
+      <workItem from="1597144825983" duration="2201000" />
+      <workItem from="1597820246147" duration="5281000" />
+      <workItem from="1597836408519" duration="881000" />
+      <workItem from="1598169929450" duration="4812000" />
+      <workItem from="1598336190420" duration="2430000" />
+      <workItem from="1598424309319" duration="764000" />
+      <workItem from="1598858657169" duration="2575000" />
     </task>
     <servers />
   </component>
@@ -202,10 +223,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="530" y="185" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1600.860@0.0.1600.860" timestamp="1594758272324" />
-    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1595232423564">
+    <state x="425" y="21" key="CommitChangelistDialog2" timestamp="1598861337599">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1595232423564" />
+    <state x="425" y="21" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1598861337599" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1598424357163">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598424357163" />
     <state x="634" y="353" key="NewPhpFileDialog" timestamp="1592849518187">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -214,14 +239,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1593293521741" />
-    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1595230484512">
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1598858664812">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1595230484512" />
-    <state x="463" y="180" key="search.everywhere.popup" timestamp="1593293310723">
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1598858664812" />
+    <state x="609" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598861367223">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1593293310723" />
+    <state x="609" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1598861367223" />
+    <state x="463" y="180" key="search.everywhere.popup" timestamp="1598858961321">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1598858961321" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -230,6 +259,11 @@
           <url>file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/vendors/create.blade.php</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
